@@ -1,0 +1,11 @@
+{
+  "name": "app-deploy",
+  "version": "1.0.0",
+  "description": "try to deploy react app to heroku",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app"
+  },
+  "author": "mark weber",
+  "license": "ISC"
+}

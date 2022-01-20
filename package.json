@@ -4,12 +4,12 @@
   "description": "try to deploy react app to heroku",
   "main": "index.js",
   "scripts": {
-    "start":"node app"
+    "start": "node app"
   },
   "author": "mark weber",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.9.8"
+    "express": "^4.17.2"
   },
   "engines": {
     "node": "10.23.1"
